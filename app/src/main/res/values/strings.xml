@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">M4_Tugas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fkom">Selamat Datang di Fakultas Ilmu Komputer</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="register">Create Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
